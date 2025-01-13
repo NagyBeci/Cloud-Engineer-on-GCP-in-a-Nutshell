@@ -1,9 +1,9 @@
 # Cloud Engineering on GCP in a Nutshell
 
 <!-- Badges Section -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: PDDL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](LICENSE)
 [![Language: Markdown](https://img.shields.io/badge/Docs-Markdown-success.svg)](https://shields.io/)
-[![Build Status](https://github.com/NagyBeci/Cloud-Engineer-on-GCP-in-a-Nutshell/actions/workflows/ci-build.yml/badge.svg)](https://github.com/NagyBeci/Cloud-Engineer-on-GCP-in-a-Nutshell/actions)
+[![Build Status](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/ci-build.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-844FBA.svg?logo=terraform)](https://www.terraform.io/)
 [![GCP Project](https://img.shields.io/badge/Cloud-GCP-4285F4.svg?logo=google-cloud)](https://cloud.google.com/)
 
@@ -60,5 +60,5 @@ Welcome to **Cloud Engineering on GCP in a Nutshell**, a repository dedicated to
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/NagyBeci/Cloud-Engineer-on-GCP-in-a-Nutshell.git
-   cd Cloud-Engineer-on-GCP-in-a-Nutshell
+   git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
+   cd <YOUR_REPO>
