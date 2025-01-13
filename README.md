@@ -3,7 +3,6 @@
 <!-- Badges Section -->
 [![License: PDDL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](LICENSE)
 [![Language: Markdown](https://img.shields.io/badge/Docs-Markdown-success.svg)](https://shields.io/)
-[![Build Status](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/ci-build.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-844FBA.svg?logo=terraform)](https://www.terraform.io/)
 [![GCP Project](https://img.shields.io/badge/Cloud-GCP-4285F4.svg?logo=google-cloud)](https://cloud.google.com/)
 
