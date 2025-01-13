@@ -1,0 +1,10 @@
+project_ID            = qwiklabs-gcp-03-a0ec830f741c
+
+Bucket                = tf-bucket-844096
+
+Custom Instance Name  = tf-instance-485298
+
+VPC Name              = tf-vpc-757680
+
+terraform import 'module.instances.google_compute_instance.tf_instance_1' projects/qwiklabs-gcp-03-a0ec830f741c/zones/us-west1-a/instances/tf-instance-1
+terraform import 'module.instances.google_compute_instance.tf_instance_2' projects/qwiklabs-gcp-03-a0ec830f741c/zones/us-west1-a/instances/tf-instance-2
